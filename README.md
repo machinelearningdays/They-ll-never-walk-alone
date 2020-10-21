@@ -2,21 +2,29 @@ They’ll never walk alone
 
 
 Elif Sinem AĞAR-- sinemaar1@gmail.com
+
 Adnan YAĞMUR-- adnan.yagmur.2008@gmail.com
+
 Selman BAŞKAYA-- selmanbaskaya1@gmail.com
+
 Doğukan ÇABADAK-- dogukancabadak@gmail.com
+
 
 Elif Sinem AĞAR:
 Düzce Üniversitesi 2. sınıf Bilgisayar Mühendisliği öğrencisi. Düzce Üniversitesi Mekatek Topluluğu Yazılım ekibinde daha önce Teknofest Robotaksi Binek Otonom yarışmasında görüntü işleme ile levha tanıma ve aracın arayüz tasarımı kısımlarında görev aldı. Ekip lideri, görüntü işleme ve ses ile duygu analizi kısımlarından sorumlu.
 
+
 Adnan Yağmur:
 Düzce Üniversitesi Elektrik Elektronik Mühendisliği bölümü üçüncü sınıf öğrencisi. Düzce Üniversitesi Mekatek Topluluğunda İnsansız Hava Araçları tasarlama ve otonom uçuş görevlerinde yer aldı. Düzce üniversitesi DSC' de aktif üye. Projede, elektronik donanım ve elektronik tasarım görevini üstlenmekte.
+
 
 Selman BAŞKAYA:
 Düzce Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisi. İki ayrı startup ile algoritma mühendisi görevinde çalıştı, çalışmalarından biri koloni robotlar diğeri ise tedarikçi operasyon sistemlerinde makine öğrenmesi üzerine idi. Ekipte mobil, tasarım ve ses ile duygu analizi kısmından sorumlu.
 
+
 Doğukan ÇABADAK:
 Düzce Üniversitesi 2. sınıf Bilgisayar Mühendisliği öğrencisi. Daha önce Realkom firmasını düzenlediği fikir donanım yarışmasında derece aldı. Ekipte donanım ve araştırma görevinde.
+
 
 
 
