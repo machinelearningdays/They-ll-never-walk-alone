@@ -68,6 +68,7 @@ Kullandığımız Modüller, Kütüphaneler ve Paketler
 
 
 Hackathon’da oluşturulmayan Bileşenler:
+
 Kendi oluşturduğumuz dataset ile eğitim yapmayı amaçladık. İlk başta Ubuntu 18.04 de çalışıyorduk bazı güncellemelerden dolayı bazı çakışmalar meydana geldi. Cuda ve cudnn uyuşmazlığı yaşadık ve Windows10 da Anaconda tekrar çalışmaya devam ettik yeni ekte paylaştığımız tensorflow dosyasını eğitime hazır hale getirdik. Ancak buffer ve PythonPath ile alakalı bazı sorunlar nedeni ile eğitim yapamadık, düzgün bir sistemde eğitime hazır dosya oluşturduk. Eğitim yapamadığımız için bir örnek bir görüntü tanıma elde edemedik.
 Ses ile duygu analizi kısmında örnek olarak bir hayvanın acı sesini tespit edip hayvanın acı çektiği sonucuna varan bir eğitim yapma durumu düşüncesindeydik ama teknik bilgi yetersizliği nedeni ile gerçekleştirmedik.
 
