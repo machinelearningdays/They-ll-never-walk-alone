@@ -1,4 +1,4 @@
-They’ll never wall alone
+They’ll never walk alone
 
 
 Elif Sinem AĞAR-- sinemaar1@gmail.com
@@ -51,3 +51,7 @@ Hedeflerimiz:
 İlerleyen süreçlerde paketlerle alakalı sorunları çözüp verimli bir eğitim yapmayı hedeflemekteyiz. Ses frekanslarını çözümleyip ses ile duygu analizi yapmayı hedeflemekteyiz.
 
 Bu proje üzerinde daha önce bir çalışma yapılmamıştır. Yapılan çalışmaların hepsi Hackathon sürecinde ekip arkadaşlarımızla birlikte yapılmıştır.
+
+
+hazırladığımız models dosyasının drive linki:
+https://drive.google.com/drive/folders/1sQ32J2Qrc1I2OA8qXeQ3xO1YqQ5US8HS
